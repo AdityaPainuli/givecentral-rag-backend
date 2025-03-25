@@ -1,6 +1,6 @@
-# RAG System Backend API for Give-central
+# RAG System Backend API 
 
-This is a simple backend API collection containing the essential endpoints for a RAG (Retrieval-Augmented Generation) system designed for Give-central.
+This is a simple backend API collection containing the essential endpoints for a RAG (Retrieval-Augmented Generation) system designed.
 
 ** Postman collection ** - https://app.getpostman.com/join-team?invite_code=3595eb29a6f9c6ec2ed132e7133e5eaba062e312952fb5450d7c5a20ca56ccfb&target_code=5587f65b74476f676d2cf5673927fe7c
 
