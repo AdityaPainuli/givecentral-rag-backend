@@ -2,7 +2,7 @@
 
 This is a simple backend API collection containing the essential endpoints for a RAG (Retrieval-Augmented Generation) system designed for Give-central.
 
-** Postman collection ** - https://www.postman.com/chatty-insights/workspace/givecentral-rag-backend-v0-1/collection/21664799-a88cd487-9369-4c43-ac21-2cf701696a05?action=share&source=copy-link&creator=21664799
+** Postman collection ** - https://app.getpostman.com/join-team?invite_code=3595eb29a6f9c6ec2ed132e7133e5eaba062e312952fb5450d7c5a20ca56ccfb&target_code=5587f65b74476f676d2cf5673927fe7c
 
 
 ## Features
